@@ -2,10 +2,6 @@
 
 This project is a fork, but without any political crap.
 
-<p align="center">
-    <img src="favicon.png" alt="Icon" />
-</p>
- 
 ## Install
 
 - 📦 [NuGet](https://nuget.org/packages/YoutubeExplodeFree): `dotnet add package YoutubeExplodeFree`
