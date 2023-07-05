@@ -6,8 +6,6 @@ This project is a fork, but without any political crap.
 
 - 📦 [NuGet](https://nuget.org/packages/YoutubeExplodeFree): `dotnet add package YoutubeExplodeFree`
 
-## Screenshots
-
 ## Usage
 
 **YoutubeExplode** exposes its functionality through a single entry point — the `YoutubeClient` class.
